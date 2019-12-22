@@ -1,0 +1,25 @@
+$date
+	Sun Dec 22 10:20:45 2019
+$end
+$version
+	QuestaSim Version 10.6c
+$end
+$timescale
+	1ns
+$end
+
+$scope module tbench_top $end
+
+$scope module t1 $end
+$upscope $end
+$upscope $end
+
+$scope begin listcomp2_svh_unit $end
+$upscope $end
+
+$scope begin std $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+$end
